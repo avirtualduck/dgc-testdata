@@ -1,12 +1,12 @@
 {
   "JSON": {
     "nam": {
-      "fn": "Muster",
-      "fnt": "MUSTER",
-      "gn": "Hans",
-      "gnt": "HANS"
+      "fn": "TestA",
+      "fnt": "TESTA",
+      "gn": "Notreal",
+      "gnt": "NOTREAL"
     },
-    "dob": "1950-06-04",
+    "dob": "1999-10-09",
     "ver": "1.2.1",
     "r": [
       {
